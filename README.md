@@ -1,4 +1,4 @@
-# CampusNotes
+# CampusNotes - Organized Study Materials
 # Study Notes
 
 This folder contains academic notes organized by subject.
