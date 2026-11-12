@@ -1,0 +1,8 @@
+CampusNotes Project
+
+CampusNotes is a simple note management project.
+
+Features:
+1. Create notes
+2. Store notes
+3. Organize notes
